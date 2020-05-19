@@ -4,4 +4,8 @@ Class test1
   {
     System.out.println("Hello World");
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 422468f5dd3601ffb33af4f13c3ce4f68c5541da
